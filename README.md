@@ -6,7 +6,7 @@ One tap easy to learn, avoid hurdles & unlock new Levels......
 Comprehend movement of hurdles to score high....
 
 All new different levels, starting from easy ones to Hard levels.
-Now unlock levels to play endless mode.....
+Now unlock levels or Play endless mode.....
 Different levels unlock new balls so Check for new balls whenever a new level is unlocked....
 Different balls have different properties so use them wisely.. 
 
@@ -15,10 +15,9 @@ Different balls have different properties so use them wisely..
 
 1. Free to Play, Super Simple to PLAY but "HARD To SCORE".
 2. Play both in offline and online mode.
-3. Unlock daily championship and Play it to Top the leaderboard. 
+3. Play to Top the leaderboard. 
 4. Easy to play.
 5. Simplest game system, Designed for one Handheld Gameplay.
-6. Also Check the Top Scorers of every week.
 
 ## Terms & Conditions
 
